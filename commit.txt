@@ -1,0 +1,29 @@
+commit b9f1a00fd82d8e71311a1f951f4fdb806c6c1d5d
+Author: Juan Di Pasquo <juandipasquo@gmail.com>
+Date:   Thu May 27 18:35:40 2021 -0300
+
+    Cambios en la tipografia del blog
+
+commit 2ae9227f509a7069311681b4538bb54f8e0f21ef
+Author: Juan Di Pasquo <juandipasquo@gmail.com>
+Date:   Wed May 26 16:28:03 2021 -0300
+
+    Cambio de vida
+
+commit 66cd914c93cfb3cf61ea4ef09411b1b8a73fa248
+Author: Juan Di Pasquo <juandipasquo@gmail.com>
+Date:   Wed May 26 16:27:16 2021 -0300
+
+    Arranco mi proyecto real con html y css
+
+commit e4e5293cec71cf70b1842ea450534247d143a2b2
+Author: Juan Di Pasquo <juandipasquo@gmail.com>
+Date:   Wed May 26 15:40:20 2021 -0300
+
+    Cambios en el archivos original
+
+commit a5aaa05c598dc97482ebcf2f86e1cd1ef844ae16
+Author: Juan Di Pasquo <juandipasquo@gmail.com>
+Date:   Wed May 26 15:38:33 2021 -0300
+
+    Segundo commit del archivo
