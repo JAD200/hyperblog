@@ -9,11 +9,16 @@ body{
 }
 body
 {
-    
     color: #333;
     text-align: center;
     font-family: Arial;
    
+}
+img
+{
+    padding: 1vh 1vw;
+    margin: 2vh 2vw;
+    width: 230px;
 }
 
 #cabecera
